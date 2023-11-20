@@ -94,8 +94,6 @@ Allows setting a ScreenShakeModifier in `screenShakeModifier.json`
 
 Installation: Replace `[game files]/hollow_knight_Data/Managed/Assembly-CSharp.dll`,
 
-#### [Debug Mod](https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.10.1/DebugMod-1.4.zip)
-
 ### 1.5.78
 
 #### [LoadNormaliser](https://github.com/Schyvun/HKCP_LoadNormaliser/releases/download/1.1/1432.1578.1.2.3.5.LoadNormaliser.UI.zip)
