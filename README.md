@@ -42,41 +42,41 @@ Usage: Download, run `Lumafly.exe`.
 
 #### [ScreenShakeModifier](/ScreenShakeModifier/1221/Assembly-CSharp.dll)
 
-Allows setting a ScreenShakeModifier in `Config.ini`.
+Allows setting a ScreenShakeModifier in `screenShakeModifier.json`
 
 [with Modding API](/ScreenShakeModifier/1221-API/Assembly-CSharp.dll)
 
-Installation: Replace `[game files]/hollow_knight_data/Managed/Assembly-CSharp.dll`.
+Installation: Replace `[game files]/hollow_knight_Data/Managed/Assembly-CSharp.dll`.
 
 #### [Minisavestates](https://github.com/Yurihaia/MiniSavestates/releases/download/1.2/Assembly-CSharp.dll)
 
 Allowed for IL runs, allows reloading a single savestate.
 
-Installation: Replace `[game files]/hollow_knight_data/Managed/Assembly-CSharp.dll`.
+Installation: Replace `[game files]/hollow_knight_Data/Managed/Assembly-CSharp.dll`.
 
 #### [Modding API](/Mods/1221/Modding%20API/Assembly-CSharp.dll)
 
 Required for all mods listed below. Must not be enabled for run submissions.
 
-Installation: Replace `[game files]/hollow_knight_data/Managed/Assembly-CSharp.dll`.
+Installation: Replace `[game files]/hollow_knight_Data/Managed/Assembly-CSharp.dll`.
 
 ##### [Debug Mod](https://github.com/SkeppysFlipFlops/DebugMod-1/releases/download/1.5.8/DebugMod.dll)
 
 Primary practice mod: press F1 to open the debug menu.
 
-Installation: Place in `[game files]/hollow_knight_data/Managed/Mods`.
+Installation: Place in `[game files]/hollow_knight_Data/Managed/Mods`.
 
 ##### [Benchwarp](/Mods/1221/Benchwarp.zip)
 
 Allows warping to any bench in the game.
 
-Installation: Unzip files to `[game files]/hollow_knight_data/Managed/Mods`.
+Installation: Unzip files to `[game files]/hollow_knight_Data/Managed/Mods`.
 
 ##### [HKTimer](https://github.com/Schyvun/HollowKnight-Timer/releases/download/v0.1.1/Managed.zip)
 
 Adds an in-game timer with settable scene and position triggers for precise room timings.
 
-Installation: Unzip files to `[game files]/hollow_knight_data/Managed/Mods`.
+Installation: Unzip files to `[game files]/hollow_knight_Data/Managed/Mods`.
 
 ### 1.4.3.2
 
@@ -84,9 +84,15 @@ Installation: Unzip files to `[game files]/hollow_knight_data/Managed/Mods`.
 
 Normalises loads to a given length; for use in races.
 
-Installation: Unzip, select desired patch & length, rename to `Assembly-Csharp.dll` and replace `[game files]/hollow_knight_data/Managed/Assembly-CSharp.dll`.
+Installation: Unzip, select desired patch & length, rename to `Assembly-Csharp.dll` and replace `[game files]/hollow_knight_Data/Managed/Assembly-CSharp.dll`.
 
-##### [Debug Mod](https://github.com/TheMulhima/HollowKnight.DebugMod/releases/download/v1.4.10.1/DebugMod-1.4.zip)
+#### [ScreenShakeModifier](/ScreenShakeModifier/1432/Assembly-CSharp.dll)
+
+Allows setting a ScreenShakeModifier in `screenShakeModifier.json`
+
+[with Modding API](/ScreenShakeModifier/1432-API/Assembly-CSharp.dll)
+
+Installation: Replace `[game files]/hollow_knight_Data/Managed/Assembly-CSharp.dll`,
 
 ### 1.5.78
 
@@ -94,7 +100,7 @@ Installation: Unzip, select desired patch & length, rename to `Assembly-Csharp.d
 
 Normalises loads to a given length; for use in races.
 
-Installation: Unzip, select desired patch & length, rename to `Assembly-Csharp.dll` and replace `[game files]/hollow_knight_data/Managed/Assembly-CSharp.dll`.
+Installation: Unzip, select desired patch & length, rename to `Assembly-Csharp.dll` and replace `[game files]/hollow_knight_Data/Managed/Assembly-CSharp.dll`.
 
 #### Practice mods
 
@@ -112,27 +118,27 @@ Allows warping to any bench in the game.
 
 Adds a picture-in-picture camera following the knight (like DebugMod's "Force Camera Follow") in the top right. Useful for glitched practice where the knight would not be visible.
 
-Installation: Unzip files to `[game files]/hollow_knight_data/Managed/Mods/FollowCam/`.
+Installation: Unzip files to `[game files]/hollow_knight_Data/Managed/Mods/FollowCam/`.
 
 ## Game modifications for other patches
 
 ### 1.0.2.8
 
-Mapi: https://github.com/pseudorandomhk/hk-modding-api/tree/1028 \
-Debug Mod: https://github.com/pikachupower3/HollowKnight.DebugMod/tree/1028 \
-SrQoL: https://github.com/pikachupower3/SpeedRunQoL/tree/1028  
-Benchwarp: https://github.com/pseudorandomhk/HollowKnight.BenchwarpMod/tree/1028 \
+[Modding API](https://github.com/pseudorandomhk/hk-modding-api/releases/download/1.0.2.8-74/OutputFinal.zip)  
+[Debug](https://github.com/pikachupower3/HollowKnight.DebugMod/releases/download/v1.4.10.3/DebugMod_1028.zip)  
+[SrQoL](https://github.com/pikachupower3/SpeedRunQoL/releases/download/v0.61/SpeedRunQoL_1315.zip)  
+[Benchwarp](https://github.com/pseudorandomhk/HollowKnight.BenchwarpMod/releases/download/v3.2.4-1028/Benchwarp.dll)  
 [FollowCam](https://github.com/pseudorandomhk/HollowKnight.FollowCam/releases/download/v1.0.0/FollowCam_1028.zip)  
 [Load Extender](/Mods/1028/Load%20Extender/Assembly-CSharp.dll)
 
 ### 1.1.1.8
 
-[Modding API](/Mods/1118/Modding%20API/Assembly-CSharp.dll) \
+[Modding API](/Mods/1118/Modding%20API/Assembly-CSharp.dll)  
 [Debug mod](/Mods/1118/DebugMod.dll)
 
 ### 1.3.1.5
 
-Mapi: https://github.com/pikachupower3/hk-modding-api/tree/1315 \
-Debug Mod: https://github.com/pikachupower3/HollowKnight.DebugMod/tree/1315 \
-SrQoL: https://github.com/pikachupower3/SpeedRunQoL/tree/1315 \
-Benchwarp: https://github.com/pikachupower3/HollowKnight.BenchwarpMod/tree/1315
+[Modding API](https://github.com/pikachupower3/hk-modding-api/releases/download/1.3.1.5-74/OutputFinal.zip)  
+[Debug Mod](https://github.com/pikachupower3/HollowKnight.DebugMod/releases/download/v1.4.10.3/DebugMod_1315.zip)  
+[SrQoL](https://github.com/pikachupower3/SpeedRunQoL/releases/download/v0.61/SpeedRunQoL_1315.zip)  
+[Benchwarp](https://github.com/pikachupower3/HollowKnight.BenchwarpMod/releases/download/v3.2.3/Benchwarp_1315.zip)
