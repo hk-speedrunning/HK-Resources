@@ -1,6 +1,6 @@
 # Any% NMG
 
-## [Practice](./Savestates.zip)
+## [Practice](./Any_NMG_Savestates.zip)
 
     6 pages of 10 - Posted by Lep
 
@@ -13,7 +13,7 @@ Each savestate has a label to separate it into 1 of 4 categories. These include:
 - Trick: Specific, identifiable parts of the run that are themselves trimmed from Movement. Essentially "glitchless glitches", if you like (i.e. E-Pogo, Shade Skip, etc.)
 - Boss: Boss fights and minibosses like VK and Petra Arena
 
-## [RoomSoB](./RoomSoB_Savestates.zip)
+## [RoomSoB](./Any_RoomSoB_Savestates.zip)
 
     17 pages of 10 - Posted by Lep
 
