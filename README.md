@@ -12,8 +12,8 @@ The following are the macro programs legal for use in runs.
 #### [SOCD Cleaner](https://github.com/valignatev/socd/releases/latest)
 Overrides the default left+right behaviour for the most recently pressed key to take precedence.
 
-Usage: run, inputs will be cleaned while the window is open.
-[README](https://github.com/valignatev/socd)
+Usage: run, inputs will be cleaned while the window is open.\
+[README](https://github.com/valignatev/socd)\
 [Linux version](https://github.com/it0946/socd), [Keycode helper for config](/SocdMaker/socdmaker.exe)
 
 #### [Blue](/Blue/blue.exe)
@@ -102,18 +102,18 @@ Installation: Unzip files to `[game files]/hollow_knight_data/Managed/Mods/Follo
 ## Game modifications for other patches
 
 ### 1.0.2.8
-Mapi: https://github.com/pseudorandomhk/hk-modding-api/tree/1028
-Debug Mod: https://github.com/pikachupower3/HollowKnight.DebugMod/tree/1028
-SrQoL: https://github.com/pikachupower3/SpeedRunQoL/tree/1028
-Benchwarp: https://github.com/pseudorandomhk/HollowKnight.BenchwarpMod/tree/1028
-FollowCam: https://github.com/pseudorandomhk/HollowKnight.FollowCam/releases/download/v1.0.0/FollowCam_1028.zip
+Mapi: https://github.com/pseudorandomhk/hk-modding-api/tree/1028 \
+Debug Mod: https://github.com/pikachupower3/HollowKnight.DebugMod/tree/1028 \
+SrQoL: https://github.com/pikachupower3/SpeedRunQoL/tree/1028 \
+Benchwarp: https://github.com/pseudorandomhk/HollowKnight.BenchwarpMod/tree/1028 \
+FollowCam: https://github.com/pseudorandomhk/HollowKnight.FollowCam/releases/download/v1.0.0/FollowCam_1028.zip \
 
 ### 1.1.1.8
-[Modding API](/Mods/1118/Modding%20API/Assembly-CSharp.dll)
-[Debug mod](/Mods/1118/DebugMod.dll)
+[Modding API](/Mods/1118/Modding%20API/Assembly-CSharp.dll) \
+[Debug mod](/Mods/1118/DebugMod.dll) \
 
 ### 1.3.1.5
-Mapi: https://github.com/pikachupower3/hk-modding-api/tree/1315
-Debug Mod: https://github.com/pikachupower3/HollowKnight.DebugMod/tree/1315
-SrQoL: https://github.com/pikachupower3/SpeedRunQoL/tree/1315
-Benchwarp: https://github.com/pikachupower3/HollowKnight.BenchwarpMod/tree/1315
+Mapi: https://github.com/pikachupower3/hk-modding-api/tree/1315 \
+Debug Mod: https://github.com/pikachupower3/HollowKnight.DebugMod/tree/1315 \
+SrQoL: https://github.com/pikachupower3/SpeedRunQoL/tree/1315 \
+Benchwarp: https://github.com/pikachupower3/HollowKnight.BenchwarpMod/tree/1315  
