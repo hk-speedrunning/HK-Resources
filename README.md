@@ -96,6 +96,12 @@ Installation: Replace `[game files]/hollow_knight_Data/Managed/Assembly-CSharp.d
 
 ### 1.5.78
 
+#### [MiniSavestates](https://github.com/Schyvun/miniSavestates/releases/download/1578/Assembly-CSharp.dll)
+
+Allowed for IL runs, allows reloading a single savestate.
+
+Installation: Replace `[game files]/hollow_knight_Data/Managed/Assembly-CSharp.dll`.
+
 #### [LoadNormaliser](https://github.com/Schyvun/HKCP_LoadNormaliser/releases/download/1.1/1432.1578.1.2.3.5.LoadNormaliser.UI.zip)
 
 Normalises loads to a given length; for use in races.
