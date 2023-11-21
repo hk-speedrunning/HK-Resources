@@ -4,38 +4,6 @@ This repository contains persistent links and file downloads for various resourc
 
 Most programs listed here are not signed, and so Windows will initially show `Windows protected your PC` - to continue to run, click `More info`, then `Run anyway`.
 
-## External resources
-
-### Legal macro programs
-
-The following are the macro programs legal for use in runs.
-
-#### [SOCD Cleaner](https://github.com/valignatev/socd/releases/latest)
-
-Overrides the default left+right behaviour for the most recently pressed key to take precedence.
-
-Usage: run, inputs will be cleaned while the window is open.\
-[README](https://github.com/valignatev/socd)\
-[Linux version](https://github.com/it0946/socd), [Keycode helper for config](/SocdMaker/socdmaker.exe)
-
-#### [Blue](/Blue/blue.exe)
-
-Rebinds left + right mouse buttons to keyboard inputs to avoid them being cleared on quitout on 1221.
-
-Usage: run, inputs will be rebound while the window is open.
-
-### [Assembly Manager](/AssemblyManager/Assembly_Manager.zip)
-
-External program to manage mini savestates and assembly files across installations.
-
-Usage: Extract zip to a folder, run `manager.exe`. Add desired assemblies (renamed) to `/assemblies/`, add desired minisavestates files (renamed) to `/mini savestates/`.
-
-### [Lumafly](https://themulhima.github.io/Lumafly/)
-
-A fork of the Scarab mod installer for managing mods on 1.5.78.
-
-Usage: Download, run `Lumafly.exe`.
-
 ## Assemblies
 
 These are replacements for your game's main assembly (at `[game files]/hollow_knight_Data/Managed/Assembly-CSharp.dll`). Ensure the name of the file is the same - remove the trailing `(1)` if present after download.
@@ -142,3 +110,49 @@ Adds a picture-in-picture camera following the knight (like DebugMod's "Force Ca
 
 - [1.0.2.8](https://github.com/pseudorandomhk/HollowKnight.FollowCam/releases/download/v1.0.0/FollowCam_1028.zip)
 - [1.5.78](https://github.com/pseudorandomhk/HollowKnight.FollowCam/releases/download/v1.0.0/FollowCam.zip) (Unzip files to `[game files]/hollow_knight_Data/Managed/Mods/FollowCam/`)
+
+## External resources
+
+### Legal macro programs
+
+The following are the macro programs legal for use in runs.
+
+#### [SOCD Cleaner](https://github.com/valignatev/socd/releases/latest)
+
+Overrides the default left+right behaviour for the most recently pressed key to take precedence.
+
+Usage: run, inputs will be cleaned while the window is open.\
+[README](https://github.com/valignatev/socd)\
+[Linux version](https://github.com/it0946/socd), [Keycode helper for config](/External%20Tools/SocdMaker/socdmaker.exe)
+
+#### [Blue](/External%20Tools/Blue/blue.exe)
+
+Rebinds left + right mouse buttons to keyboard inputs to avoid them being cleared on quitout on 1221.
+
+Usage: run, inputs will be rebound while the window is open.
+
+#### [Turquoise](/External%20Tools/Turquoise/turquoise.exe)
+
+As above, but includes side buttons. Use enter to select on menus.
+
+Usage: run, inputs will be rebound while Hollow Knight is focused & the script is running in your system tray (Look for the green H icon)
+
+### [Assembly Manager](/External%20Tools/AssemblyManager/Assembly_Manager.zip)
+
+External program to manage mini savestates and assembly files across installations.
+
+Usage: Extract zip to a folder, run `manager.exe`. Add desired assemblies (renamed) to `/assemblies/`, add desired minisavestates files (renamed) to `/mini savestates/`.
+
+### [Lumafly](https://themulhima.github.io/Lumafly/)
+
+A fork of the Scarab mod installer for managing mods on 1.5.78.
+
+Usage: Download, run `Lumafly.exe`.
+
+## [Livesplit](http://livesplit.org/) and related tools
+
+The primary timer application, required for Time Without Loads. Also see the [Focused Hotkeys](https://github.com/Dalet/LiveSplit.FocusedHotkeys) component.
+
+### [HKSplitMaker](https://hksplitmaker.com/)
+
+Provides a simple interface for creating splits with automatically synchronised icons & autosplit triggers. Also holds a large list of pre-made category configurations & related route notes.

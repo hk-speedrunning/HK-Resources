@@ -6,7 +6,7 @@ This file documents resources that are no longer relevant and unlikely to be use
 - Modlinks:
   - [1432 modlinks](https://github.com/ricardosouzag/ModInstaller/blob/master/modlinks.xml)
   - [1578 modlinks](https://github.com/hk-modding/modlinks/blob/main/ModLinks.xml)
-- [Livesplit Icons](/Legacy/Livesplit%20Icons/)
+- [Livesplit Icons](/External%20Tools/Livesplit%20Icons/)
 
 ## [1432 Legacy API](/Mods/1432/Original/Modding%20API/Assembly-CSharp.dll)
 
