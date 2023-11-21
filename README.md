@@ -92,23 +92,7 @@ Allows setting a ScreenShakeModifier in `screenShakeModifier.json`
 
 [with Modding API](/ScreenShakeModifier/1432-API/Assembly-CSharp.dll)
 
-Installation: Replace `[game files]/hollow_knight_Data/Managed/Assembly-CSharp.dll`.
-
-#### Modding API
-
-There are two modding APIs for this patch; the one [here]() is a backport of the API for 1.5.78 and is most up-to-date, for use with the mods listed below. The original API and relevant mods are listed [here](Mods/1432/README.md#original-api).
-
-##### [Debug Mod]()
-
-TBA
-
-##### [Benchwarp]()
-
-TBA
-
-##### [SpeedrunQoL]()
-
-TBA
+Installation: Replace `[game files]/hollow_knight_Data/Managed/Assembly-CSharp.dll`,
 
 ### 1.5.78
 
