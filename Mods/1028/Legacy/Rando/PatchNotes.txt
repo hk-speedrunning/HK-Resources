@@ -1,0 +1,28 @@
+2/22/21 - 0.0.3
+Whispering roots no longer give essence
+Shop fixes:
+    Fragile charms now display correctly
+    Shopkeeper's key correctly opens up new items in his Sly's shop
+    Sly no longer has items visible in the background of his shop
+    Shops other than Sly now have the correct item sprites
+QoL changes:
+    Textboxes display the full text instantly
+    Water no longer prevents movement after entering
+    Elder baldurs now die to any hit, and no longer require vengeful spirit to spit baldurs
+    Greatly reduced delay between grubfather reward throws
+    Lemm now buys all relics at once if talked to on the right side
+
+2/20/21
+Switched to newly created mod loader for 1.0.2.8
+Mini debug save states no longer break the randomizer
+Fixed issue where some locations soft locked on pickup (dashmaster, mantis claw, spell twister, etc)
+Fixed issues with randomization for locations desolate dive, shade soul, tram pass, rancid egg above lemm
+Removed hidden station from randomization since it doesn't exist yet on 1.0.2.8
+Items at maps, stags, and dash slash now correctly cost geo
+Fixed issue where picking up one item could permanently remove other items in the scene
+Nicer text in dialogue boxes on items such as grubfather rewards and whispering roots
+Fragile charms no longer display as the newer patch unbreakable versions on pickup
+Added hints for items at colosseum, white palace, and grey mourner
+
+2/18/21
+Initial mod upload
