@@ -2,11 +2,15 @@
 
 There are two sets of 1432 mods & Modding APIs - the 1.5 backports, which are most up to date, and the classic 1.4 mods, which have fewer modern practice features but are compatible with other mods available from [1432 modlinks](https://github.com/ricardosouzag/ModInstaller/blob/master/modlinks.xml).
 
-## [Backport]()
+## [Backport](./Backport/Modding%20API/API.zip)
 
-Mods .dlls are placed in subfolders in the Mods folder.
+Extract all files and place them under the `hollow_knight_Data/Managed` folder in your HK install. Mods .dlls are placed in subfolders in the Mods folder.
 
-## [Original API](./Original/Modding%20API/Assembly-CSharp.dll)
+### [Mods](./Backport/Mods/)
+
+1.5 mods should mostly work as-is with the backported modding API. However, this folder contains versions that have been tested and are known to work.
+
+## [Original API](./Legacy/Modding%20API/Assembly-CSharp.dll)
 
 Mod .dlls are placed directly in the Mods folder.
 
