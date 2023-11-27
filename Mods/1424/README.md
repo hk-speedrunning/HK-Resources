@@ -7,4 +7,4 @@ The modding API and mods for 1424 are backported from 1.5.
 Extract all files and place them under the `hollow_knight_Data/Managed` folder in your HK install.
 
 ## [Mods](./Mods/)
-Mod .dlls are placed in subfolders in the `Mods` folder. 1.5 mods should mostly work as-is with this modding API. However, this folder contains versions that have been tested and are known to work.
+Mod .dlls are placed in subfolders in the `Mods` folder. This folder contains backported versions of several mods.

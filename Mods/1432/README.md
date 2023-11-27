@@ -8,7 +8,7 @@ Extract all files and place them under the `hollow_knight_Data/Managed` folder i
 
 ### [Mods](./Backport/Mods/)
 
-1.5 mods should mostly work as-is with the backported modding API. However, this folder contains versions that have been tested and are known to work.
+This folder contains backported versions of several mods for use with the backported API.
 
 ## [Original API](./Legacy/Modding%20API/Assembly-CSharp.dll)
 
