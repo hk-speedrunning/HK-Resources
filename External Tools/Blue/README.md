@@ -1,6 +1,6 @@
 Credit: Vali (@valigo)
 
-Resource: [blue.exe](./blue.exe)
+Download: [blue.exe](https://github.com/hk-speedrunning/HK-Resources/raw/main/External%20Tools/Blue/blue.exe)
 
 Source: [blue.c](./blue.c)
 
