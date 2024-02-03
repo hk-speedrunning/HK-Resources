@@ -137,6 +137,12 @@ As above, but includes side buttons. Use enter to select on menus.
 
 Usage: run, inputs will be rebound while Hollow Knight is focused & the script is running in your system tray (Look for the green H icon)
 
+#### [KeyboardToClick](/External%20Tools/KeyboardToClick/KeyboardToClick.ahk)
+
+An [AutoHotKey](/External%20Tools/AutoHotKey/README.md) script to rebind keyboard keys to mouse clicks. May be used to allow rapid double clicking.
+
+Usage: Install AutoHotKey, run script. Inputs will be rebound until the script is closed from the system tray.
+
 ### [Assembly Manager](/External%20Tools/AssemblyManager/Assembly_Manager.zip)
 
 External program to manage mini savestates and assembly files across installations.
