@@ -73,7 +73,7 @@ The most important practice mod; allows use of savestates, quickly managing acqu
 
 - [1.0.2.8](https://github.com/pikachupower3/HollowKnight.DebugMod/releases/download/v1.4.10.3/DebugMod_1028.zip)
 - [1.1.1.8](/Mods/1118/DebugMod.dll)
-- [1.2.2.1](https://github.com/SkeppysFlipFlops/DebugMod-1/releases/download/1.5.8/DebugMod.dll)
+- [1.2.2.1](https://github.com/SkeppysFlipFlops/DebugMod-1/releases/download/1.5.8/DebugMod.dll) - WARNING: on new installs this version will not work, use [this version](https://github.com/SkeppysFlipFlops/DebugMod/releases/download/1.5.12/DebugMod.dll) first.
 - [1.3.1.5](https://github.com/pikachupower3/HollowKnight.DebugMod/releases/download/v1.4.10.3/DebugMod_1315.zip)
 - [1.4.3.2]()
 - 1.5.78 - use [Lumafly](#lumafly)
