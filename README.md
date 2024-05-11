@@ -41,7 +41,14 @@ Extends loads by a flat 1s to allow use of load dependent glitches if your loads
 
 Allows use of a single savestate, useful for quickly resetting ILs such as Path of Pain.
 
-- [1.2.2.1](https://github.com/hk-speedrunning/MiniSavestates/releases/download/1.2/Assembly-CSharp.dll)
+- 1.2.2.1 (Unzip to `[game files]/hollow_knight_Data/Managed`):
+    - [Windows](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.4.3.2/minisavestates.v1.0.0-hk1.4.3.2.windows.zip)
+    - [Linux](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.4.3.2/minisavestates.v1.0.0-hk1.4.3.2.linux.zip)
+    - [MacOS](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.4.3.2/minisavestates.v1.0.0-hk1.4.3.2.macos.zip)
+- 1.4.3.2 (Unzip to `[game files]/hollow_knight_Data/Managed`):
+    - [Windows](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.5.78.11833/minisavestates.v1.0.0-hk1.5.78.11833.windows.zip)
+    - [Linux](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.2.2.1/minisavestates.v1.0.0-hk1.2.2.1.linux.zip)
+    - [MacOS](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.2.2.1/minisavestates.v1.0.0-hk1.2.2.1.macos.zip)
 - 1.5.78 (Unzip to `[game files]/hollow_knight_Data/Managed`):
     - [Windows](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.5.78.11833/minisavestates.v1.0.0-hk1.5.78.11833.windows.zip)
     - [Linux](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.5.78.11833/minisavestates.v1.0.0-hk1.5.78.11833.linux.zip)
