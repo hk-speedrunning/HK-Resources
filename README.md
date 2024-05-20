@@ -14,7 +14,7 @@ These assemblies may not be legal for your run submission: check the notes on ea
 
     Legal for all runs
 
-Backports 1.5's configurable screenshake to previous patches, to allow adjusting or disabling screenshake entirely. To modify, edit `screenShakeModifier.json`.
+Backports 1.5's configurable screenshake to previous patches, to allow adjusting or disabling screenshake entirely. To modify, edit `[save files]/screenShakeModifier.json` (will be created on first run).
 
 - [1.2.2.1](/ScreenShakeModifier/1221/Assembly-CSharp.dll)
 - [1.4.3.2](/ScreenShakeModifier/1432/Assembly-CSharp.dll)
