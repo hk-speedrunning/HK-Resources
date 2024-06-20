@@ -129,6 +129,11 @@ Adds a picture-in-picture camera following the knight (like DebugMod's "Force Ca
 
 The following are the macro programs legal for use in runs.
 
+#### [OverBind](https://github.com/cjonas1999/OverBind/releases/latest)
+
+Allows binding keyboard inputs to a virtual controller, as well as supporting SOCD cleaning (see below)
+[README](https://github.com/cjonas1999/OverBind)
+
 #### [SOCD Cleaner](https://github.com/valignatev/socd/releases/latest)
 
 Overrides the default left+right behaviour for the most recently pressed key to take precedence.
