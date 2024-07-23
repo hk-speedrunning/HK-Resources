@@ -17,6 +17,7 @@ These assemblies may not be legal for your run submission: check the notes on ea
 Backports 1.5's configurable screenshake to previous patches, to allow adjusting or disabling screenshake entirely. To modify, edit `[save files]/screenShakeModifier.json` (will be created on first run).
 
 - [1.2.2.1](/ScreenShakeModifier/1221/Assembly-CSharp.dll)
+    - [Linux](/ScreenShakeModifier/1221-Linux/Assembly-CSharp.dll)
 - [1.4.3.2](/ScreenShakeModifier/1432/Assembly-CSharp.dll)
 
 ### LoadNormaliser
@@ -63,7 +64,9 @@ Allows loading mods - most importantly DebugMod, the most versatile practice too
 - [1.0.2.8](https://github.com/pseudorandomhk/hk-modding-api/releases/download/1.0.2.8-74/OutputFinal.zip) (Unzip to `[game files]/hollow_knight_Data/Managed`)
 - [1.1.1.8](/Mods/1118/Modding%20API/Assembly-CSharp.dll)
 - [1.2.2.1](/Mods/1221/Modding%20API/Assembly-CSharp.dll)
+    - [Linux](/Mods/1221/Modding%20API%20Linux/Assembly-CSharp.dll)
 - [1.2.2.1 (with ScreenShakeModifier)](/ScreenShakeModifier/1221-API/Assembly-CSharp.dll)
+    - [Linux](/ScreenShakeModifier/1221-API-Linux/Assembly-CSharp.dll)
 - [1.3.1.5](https://github.com/pikachupower3/hk-modding-api/releases/download/1.3.1.5-74/OutputFinal.zip) (Unzip to `[game files]/hollow_knight_Data/Managed`)
 - [1.4.3.2]() <!-- TODO: Placeholder -->
 - [1.4.3.2 (with ScreenShakeModifier)](/ScreenShakeModifier/1432-API/Assembly-CSharp.dll)
