@@ -44,13 +44,13 @@ Extends loads by a flat 1s to allow use of load dependent glitches if your loads
 Allows use of a single savestate, useful for quickly resetting ILs such as Path of Pain.
 
 - 1.2.2.1 (Unzip to `[game files]/hollow_knight_Data/Managed`):
+    - [Windows](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.2.2.1/minisavestates.v1.0.0-hk1.2.2.1.windows.zip)
+    - [Linux](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.2.2.1/minisavestates.v1.0.0-hk1.2.2.1.linux.zip)
+    - [MacOS](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.2.2.1/minisavestates.v1.0.0-hk1.2.2.1.macos.zip)
+- 1.4.3.2 (Unzip to `[game files]/hollow_knight_Data/Managed`):
     - [Windows](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.4.3.2/minisavestates.v1.0.0-hk1.4.3.2.windows.zip)
     - [Linux](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.4.3.2/minisavestates.v1.0.0-hk1.4.3.2.linux.zip)
     - [MacOS](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.4.3.2/minisavestates.v1.0.0-hk1.4.3.2.macos.zip)
-- 1.4.3.2 (Unzip to `[game files]/hollow_knight_Data/Managed`):
-    - [Windows](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.5.78.11833/minisavestates.v1.0.0-hk1.5.78.11833.windows.zip)
-    - [Linux](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.2.2.1/minisavestates.v1.0.0-hk1.2.2.1.linux.zip)
-    - [MacOS](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.2.2.1/minisavestates.v1.0.0-hk1.2.2.1.macos.zip)
 - 1.5.78 (Unzip to `[game files]/hollow_knight_Data/Managed`):
     - [Windows](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.5.78.11833/minisavestates.v1.0.0-hk1.5.78.11833.windows.zip)
     - [Linux](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.5.78.11833/minisavestates.v1.0.0-hk1.5.78.11833.linux.zip)
@@ -87,11 +87,11 @@ If playing on 1.5.78, use [Lumafly](#lumafly) to install and manage mods.
 
 The most important practice mod; allows use of savestates, quickly managing acquired skills & charms, noclip, infinite health/soul and more.
 
-- [1.0.2.8](https://github.com/pikachupower3/HollowKnight.DebugMod/releases/download/v1.4.10.3/DebugMod_1028.zip)
+- [1.0.2.8](https://github.com/peekagrub/HollowKnight.DebugMod/releases/download/v1.4.10.3/DebugMod_1028.zip)
 - [1.1.1.8](/Mods/1118/DebugMod.dll)
 - [1.2.2.1](https://github.com/magneticpizza/DebugMod/releases/latest/download/Managed.zip) (Unzip to `[game files]/hollow_knight_Data/Managed`)
     - WARNING: on new installs this version will not work, use [this version](https://github.com/SkeppysFlipFlops/DebugMod/releases/download/1.5.12/DebugMod.dll) first.
-- [1.3.1.5](https://github.com/pikachupower3/HollowKnight.DebugMod/releases/download/v1.4.10.3/DebugMod_1315.zip)
+- [1.3.1.5](https://github.com/peekagrub/HollowKnight.DebugMod/releases/download/v1.4.10.3/DebugMod_1315.zip)
 - [1.4.3.2]()
 - 1.5.78 - use [Lumafly](#lumafly)
 
@@ -99,8 +99,8 @@ The most important practice mod; allows use of savestates, quickly managing acqu
 
 A debug addon that adds additional keybinds for useful practice functions, including a quick Radiance reload, forcing an Uumuu extra attack and others (see [README](https://github.com/TheMulhima/SpeedRunQoL#readme)).
 
-- [1.0.2.8](https://github.com/pikachupower3/SpeedRunQoL/releases/download/v0.61/SpeedRunQoL_1028.zip)
-- [1.3.1.5](https://github.com/pikachupower3/SpeedRunQoL/releases/download/v0.61/SpeedRunQoL_1315.zip)
+- [1.0.2.8](https://github.com/peekagrub/SpeedRunQoL/releases/download/v0.61/SpeedRunQoL_1028.zip)
+- [1.3.1.5](https://github.com/peekagrub/SpeedRunQoL/releases/download/v0.61/SpeedRunQoL_1315.zip)
 - 1.5.78 - use [Lumafly](#lumafly)
 
 ### Benchwarp
@@ -111,7 +111,7 @@ Allows warping to any bench in the game, useful for quickly getting to different
 
 - [1.0.2.8](https://github.com/pseudorandomhk/HollowKnight.BenchwarpMod/releases/download/v3.2.4-1028/Benchwarp.dll)
 - [1.2.2.1](/Mods/1221/Benchwarp.zip)
-- [1.3.1.5](https://github.com/pikachupower3/HollowKnight.BenchwarpMod/releases/download/v3.2.3/Benchwarp_1315.zip)
+- [1.3.1.5](https://github.com/peekagrub/HollowKnight.BenchwarpMod/releases/download/v3.2.3/Benchwarp_1315.zip)
 - 1.5.78 - use [Lumafly](#lumafly)
 
 ### HKTimer
