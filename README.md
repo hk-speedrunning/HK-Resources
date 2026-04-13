@@ -19,7 +19,19 @@ Backports 1.5's configurable screenshake to previous patches, to allow adjusting
 - [1.2.2.1](/ScreenShakeModifier/1221/Assembly-CSharp.dll)
     - [Linux](/ScreenShakeModifier/1221-Linux/Assembly-CSharp.dll)
     - [MacOS](/ScreenShakeModifier/1221-MacOS/Assembly-CSharp.dll)
-- [1.4.3.2](/ScreenShakeModifier/1432/Assembly-CSharp.dll)
+- 1.3.1.5: included in the [runtime patches assembly](#runtimepatches)
+- 1.4.3.2: included in the [runtime patches assembly](#runtimepatches)
+
+### RuntimePatches
+
+This assembly allows for the user to set config variables. The allowance of these variables is as follows:
+1. `ScreenShakeModifier` - This may be set to true or false
+2. `FasterIntroSkip` - This may be set to true or false for any run that does not contain timed intro cutscenes. For runs that do have timed intro cutscenes (e.g. All Achievements, Any% AG), this must be set to false
+3. `MiniSaveStates` - This must be set to false unless the category specifically allows the use of minisavestates, as was previously the case
+
+- [1.3.1.5](/RuntimePatches/1315/Assembly-CSharp.dll)
+- [1.4.3.2](/RuntimePatches/1432/Assembly-CSharp.dll)
+- [1.5.78](/RuntimePatches/1578/Assembly-CSharp.dll)
 
 ### LoadNormaliser
 
@@ -47,11 +59,11 @@ Allows use of a single savestate, useful for quickly resetting ILs such as Path 
     - [Windows](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.2.2.1/minisavestates.v1.0.0-hk1.2.2.1.windows.zip)
     - [Linux](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.2.2.1/minisavestates.v1.0.0-hk1.2.2.1.linux.zip)
     - [MacOS](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.2.2.1/minisavestates.v1.0.0-hk1.2.2.1.macos.zip)
-- 1.4.3.2 (Unzip to `[game files]/hollow_knight_Data/Managed`):
+- 1.4.3.2: Windows version is included in the [runtime patches assembly](#runtimepatches). Standalone versions are (unzip to `[game files]/hollow_knight_Data/Managed`):
     - [Windows](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.4.3.2/minisavestates.v1.0.0-hk1.4.3.2.windows.zip)
     - [Linux](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.4.3.2/minisavestates.v1.0.0-hk1.4.3.2.linux.zip)
     - [MacOS](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.4.3.2/minisavestates.v1.0.0-hk1.4.3.2.macos.zip)
-- 1.5.78 (Unzip to `[game files]/hollow_knight_Data/Managed`):
+- 1.5.78 Windows version is included in the [runtime patches assembly](#runtimepatches). Standalone versions are (unzip to `[game files]/hollow_knight_Data/Managed`):
     - [Windows](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.5.78.11833/minisavestates.v1.0.0-hk1.5.78.11833.windows.zip)
     - [Linux](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.5.78.11833/minisavestates.v1.0.0-hk1.5.78.11833.linux.zip)
     - [MacOS](https://github.com/hk-speedrunning/MiniSavestates/releases/download/v1.0.0-hk1.5.78.11833/minisavestates.v1.0.0-hk1.5.78.11833.macos.zip)
@@ -71,7 +83,7 @@ Allows loading mods - most importantly DebugMod, the most versatile practice too
     - [Linux](/ScreenShakeModifier/1221-API-Linux/Assembly-CSharp.dll)
     - [MacOS](/ScreenShakeModifier/1221-API-MacOS/Assembly-CSharp.dll)
 - [1.3.1.5](https://github.com/pikachupower3/hk-modding-api/releases/download/1.3.1.5-74/OutputFinal.zip) (Unzip to `[game files]/hollow_knight_Data/Managed`)
-- [1.4.3.2]() <!-- TODO: Placeholder -->
+- 1.4.3.2: see [here](Mods/1432/README.md)
 - [1.4.3.2 (with ScreenShakeModifier)](/ScreenShakeModifier/1432-API/Assembly-CSharp.dll)
 - 1.5.78 - use [Lumafly](#lumafly)
 
@@ -92,7 +104,7 @@ The most important practice mod; allows use of savestates, quickly managing acqu
 - [1.2.2.1](https://github.com/magneticpizza/DebugMod/releases/latest/download/Managed.zip) (Unzip to `[game files]/hollow_knight_Data/Managed`)
     - WARNING: on new installs this version will not work, use [this version](https://github.com/SkeppysFlipFlops/DebugMod/releases/download/1.5.12/DebugMod.dll) first.
 - [1.3.1.5](https://github.com/peekagrub/HollowKnight.DebugMod/releases/download/v1.4.10.3/DebugMod_1315.zip)
-- [1.4.3.2]()
+- 1.4.3.2: see [here](Mods/1432/README.md)
 - 1.5.78 - use [Lumafly](#lumafly)
 
 #### SpeedrunQol
@@ -127,6 +139,13 @@ Adds a picture-in-picture camera following the knight (like DebugMod's "Force Ca
 
 - [1.0.2.8](https://github.com/pseudorandomhk/HollowKnight.FollowCam/releases/download/v1.0.0/FollowCam_1028.zip)
 - [1.5.78](https://github.com/pseudorandomhk/HollowKnight.FollowCam/releases/download/v1.0.0/FollowCam.zip) (Unzip files to `[game files]/hollow_knight_Data/Managed/Mods/FollowCam/`)
+
+### Screenshakent
+
+Backports 1.5's configurable screenshake to previous patches, to allow adjusting or disabling screenshake entirely. To modify, edit `[save files]/screenShakeModifier.json` (will be created on first run). This mod has the same effect as the ScreenShakeModifier, but is a normal mod that can be loaded with Modding API so that we don't need a combined modified assembly with Modding API and ScreenShakeModifier.
+
+- [1.3.1.5](/Mods/1315/Screenshakent.zip)
+- 1.4.3.2: currently missing
 
 ## External resources
 
