@@ -25,7 +25,7 @@ Backports 1.5's configurable screenshake to previous patches, to allow adjusting
 ### RuntimePatches
 
 This assembly allows for the user to set config variables. The allowance of these variables is as follows:
-1. `ScreenShakeModifier` - This may be set to true or false
+1. `ScreenShakeModifier` - This may be set to true or false. Not applicable to 1.5.78, because you can edit `CameraShakeMultipler` in `hollow_knight_Data/Config.ini` on that patch.
 2. `FasterIntroSkip` - This may be set to true or false for any run that does not contain timed intro cutscenes. For runs that do have timed intro cutscenes (e.g. All Achievements, Any% AG), this must be set to false
 3. `MiniSaveStates` - This must be set to false unless the category specifically allows the use of minisavestates, as was previously the case
 
